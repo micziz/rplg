@@ -5,3 +5,7 @@ function generate() {
 }
 
 document.getElementById("btn").onclick = generate;
+document.addEventListener('DOMContentLoaded', function() {
+    var item = languages[Math.floor(Math.random() * languages.length)];
+    document.getElementById("text").innerHTML = "<p>Language = " + item + "</p>";
+ }, false);
