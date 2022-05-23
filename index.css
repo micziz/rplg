@@ -13,3 +13,9 @@
 #text{
     text-align: center;
 }
+
+#btn-download{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
