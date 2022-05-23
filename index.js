@@ -4,7 +4,12 @@ function generate() {
    document.getElementById("text").innerHTML = "<p>Language = " + item + "</p>";
 }
 
+function download(){
+    window.location.href = "https://github.com/micziz/languege-generator"
+}
+
 document.getElementById("btn").onclick = generate;
+document.getElementById("download-btn").onclick = download;
 document.addEventListener('DOMContentLoaded', function() {
     var item = languages[Math.floor(Math.random() * languages.length)];
     document.getElementById("text").innerHTML = "<p>Language = " + item + "</p>";
