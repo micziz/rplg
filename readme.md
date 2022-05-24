@@ -1,6 +1,6 @@
 # RPLG
 
-[**DEMO**](https://www.rplg.netlify.app)
+[**DEMO**](https://rplg.netlify.app)
 
 
 A simple web app that generates a random programming language.
