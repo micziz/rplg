@@ -1,17 +1,4 @@
 # RPLG
 
-[**DEMO**](https://rplg.netlify.app)
-
-
-A simple web app that generates a random programming language.
-
-## Installation
-
-RPLG requires no dependencies.
-
-Download the code and open the html file in your browser.
-
-### Electron app
-
-Go to the release page and download the latest version.
+The source code has been moved and the project re-made in svelte. Check it out [here](https://github.com/micziz/personal/src/routes/projects/rpgl)
 
