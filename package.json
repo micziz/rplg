@@ -1,0 +1,18 @@
+{
+    "name": "rplg",
+    "version": "0.2.0",
+    "description": "eGenerate a random programming languag",
+    "main": "index.js",
+    "module": "index.mjs",
+    "keywords": [
+        "js",
+        "random-language",
+        "generate",
+        "random"
+    ],
+    "author": "micziz",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.0.3"
+    }
+}
